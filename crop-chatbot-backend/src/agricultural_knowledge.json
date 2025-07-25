@@ -1,0 +1,194 @@
+{
+  "crop_categories": {
+    "cereals": [
+      "rice",
+      "maize",
+      "wheat",
+      "barley",
+      "oats"
+    ],
+    "legumes": [
+      "chickpea",
+      "kidneybeans",
+      "pigeonpeas",
+      "mothbeans",
+      "mungbean",
+      "blackgram",
+      "lentil"
+    ],
+    "fruits": [
+      "pomegranate",
+      "banana",
+      "mango",
+      "grapes",
+      "watermelon",
+      "muskmelon",
+      "apple",
+      "orange",
+      "papaya",
+      "coconut"
+    ],
+    "cash_crops": [
+      "cotton",
+      "jute",
+      "coffee"
+    ]
+  },
+  "soil_requirements": {
+    "rice": {
+      "soil_type": "Clay loam, silty clay loam",
+      "ph_range": "5.5-7.0",
+      "drainage": "Poor to moderate drainage",
+      "organic_matter": "High"
+    },
+    "maize": {
+      "soil_type": "Well-drained loamy soil",
+      "ph_range": "6.0-7.5",
+      "drainage": "Good drainage",
+      "organic_matter": "Moderate to high"
+    },
+    "chickpea": {
+      "soil_type": "Well-drained sandy loam to clay loam",
+      "ph_range": "6.0-7.5",
+      "drainage": "Good drainage",
+      "organic_matter": "Moderate"
+    }
+  },
+  "climate_requirements": {
+    "rice": {
+      "temperature": "20-35\u00b0C",
+      "rainfall": "150-300cm annually",
+      "humidity": "High (80-90%)",
+      "season": "Kharif (monsoon)"
+    },
+    "maize": {
+      "temperature": "21-27\u00b0C",
+      "rainfall": "50-75cm",
+      "humidity": "Moderate",
+      "season": "Kharif and Rabi"
+    },
+    "cotton": {
+      "temperature": "21-30\u00b0C",
+      "rainfall": "50-100cm",
+      "humidity": "Moderate",
+      "season": "Kharif"
+    }
+  },
+  "fertilizer_recommendations": {
+    "general": {
+      "nitrogen": "Essential for leaf growth and chlorophyll production",
+      "phosphorus": "Important for root development and flowering",
+      "potassium": "Helps in disease resistance and water regulation"
+    },
+    "organic_options": [
+      "Compost",
+      "Farmyard manure",
+      "Green manure",
+      "Vermicompost",
+      "Biofertilizers"
+    ]
+  },
+  "pest_management": {
+    "integrated_approach": [
+      "Crop rotation",
+      "Biological control",
+      "Cultural practices",
+      "Chemical control (as last resort)"
+    ],
+    "common_pests": {
+      "rice": [
+        "Brown planthopper",
+        "Stem borer",
+        "Leaf folder"
+      ],
+      "maize": [
+        "Fall armyworm",
+        "Corn borer",
+        "Aphids"
+      ],
+      "cotton": [
+        "Bollworm",
+        "Whitefly",
+        "Aphids"
+      ]
+    }
+  },
+  "irrigation_practices": {
+    "methods": {
+      "drip_irrigation": "Water-efficient method for fruits and vegetables",
+      "sprinkler_irrigation": "Suitable for cereals and field crops",
+      "flood_irrigation": "Traditional method for rice cultivation",
+      "furrow_irrigation": "Used for row crops"
+    },
+    "water_management": [
+      "Monitor soil moisture",
+      "Use mulching to reduce evaporation",
+      "Implement rainwater harvesting",
+      "Practice deficit irrigation when appropriate"
+    ]
+  },
+  "sustainable_practices": {
+    "soil_health": [
+      "Crop rotation",
+      "Cover cropping",
+      "Reduced tillage",
+      "Organic matter addition"
+    ],
+    "biodiversity": [
+      "Intercropping",
+      "Agroforestry",
+      "Pollinator-friendly practices",
+      "Wildlife corridors"
+    ],
+    "climate_adaptation": [
+      "Drought-resistant varieties",
+      "Water conservation",
+      "Carbon sequestration",
+      "Renewable energy use"
+    ]
+  },
+  "crop_diseases": {
+    "fungal": {
+      "symptoms": "Spots, wilting, rotting",
+      "prevention": "Good air circulation, avoid overhead watering",
+      "treatment": "Fungicides, resistant varieties"
+    },
+    "bacterial": {
+      "symptoms": "Water-soaked lesions, yellowing",
+      "prevention": "Sanitation, crop rotation",
+      "treatment": "Copper-based sprays, resistant varieties"
+    },
+    "viral": {
+      "symptoms": "Mosaic patterns, stunting",
+      "prevention": "Control insect vectors, use certified seeds",
+      "treatment": "Remove infected plants, vector control"
+    }
+  },
+  "harvesting_guidelines": {
+    "timing": {
+      "cereals": "When moisture content is 20-25%",
+      "fruits": "Based on color, firmness, and sugar content",
+      "vegetables": "At optimal size and maturity"
+    },
+    "post_harvest": [
+      "Proper cleaning and sorting",
+      "Appropriate storage conditions",
+      "Temperature and humidity control",
+      "Pest control in storage"
+    ]
+  },
+  "market_information": {
+    "price_factors": [
+      "Quality and grade",
+      "Market demand",
+      "Seasonal variations",
+      "Transportation costs"
+    ],
+    "value_addition": [
+      "Processing",
+      "Packaging",
+      "Branding",
+      "Direct marketing"
+    ]
+  }
+}

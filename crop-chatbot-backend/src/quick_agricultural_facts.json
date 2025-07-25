@@ -1,0 +1,29 @@
+{
+  "soil_ph": {
+    "acidic": "pH < 6.5 - Add lime to increase pH",
+    "neutral": "pH 6.5-7.5 - Ideal for most crops",
+    "alkaline": "pH > 7.5 - Add sulfur or organic matter to decrease pH"
+  },
+  "npk_deficiency_symptoms": {
+    "nitrogen": "Yellowing of older leaves, stunted growth",
+    "phosphorus": "Purple/reddish leaves, poor root development",
+    "potassium": "Brown leaf edges, weak stems"
+  },
+  "water_requirements": {
+    "high": [
+      "rice",
+      "banana",
+      "coconut"
+    ],
+    "medium": [
+      "maize",
+      "cotton",
+      "mango"
+    ],
+    "low": [
+      "millet",
+      "sorghum",
+      "chickpea"
+    ]
+  }
+}
