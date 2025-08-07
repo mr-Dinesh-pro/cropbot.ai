@@ -1,8 +1,8 @@
 # 🌐 [Visit CropBot Live Website](https://zmhqivcvjdm5.manus.space/)
 
-# 🌾 CropCat Bot — Your Smart Agricultural Assistant 🤖
+# 🌾 Crop Bot — Your Smart Agricultural Assistant 🤖
 
-CropCat Bot is an AI-powered chatbot designed to help users with agricultural information and crop-related queries. It combines machine learning and static knowledge bases to provide intelligent, real-time responses.
+Crop Bot is an AI-powered chatbot designed to help users with agricultural information and crop-related queries. It combines machine learning and static knowledge bases to provide intelligent, real-time responses.
 
 ## 💡 Features
 
